@@ -43,16 +43,20 @@ Developed an HR analytics dashboard to analyze employee attrition, workforce dis
 **Tools Used:** Power BI, Excel, SQL
 
 ---
+### Customer Churn Analysis Dashboard
 
-### Retail Supply Chain & Inventory Analysis
-Performed supply chain and inventory analysis to identify stock movement trends, delivery performance, and inventory optimization opportunities. Built dashboards to monitor operational efficiency and product-level performance.
+Developed a customer churn analytics dashboard to analyze customer retention, churn behavior, and high-risk customer segments in a telecom subscription business. Performed data cleaning and exploratory analysis using SQL and created an interactive Power BI dashboard to identify churn drivers and revenue-at-risk patterns.
 
 **Key Insights:**
-- Identified slow-moving and high-demand products.
-- Analyzed delivery delays and inventory turnover trends.
-- Improved visibility into supply chain KPIs through reporting dashboards.
 
-**Tools Used:** SQL, Power BI, Python
+* Identified month-to-month customers as the highest churn segment (~42.7%).
+* Found that customers within the first 12 months showed the highest churn (~47.4%).
+* Analyzed churn patterns across internet service, tenure, partner status, and senior citizen categories.
+* Identified high-risk customer segments contributing to revenue loss, particularly month-to-month fiber optic users.
+
+**Tools Used:** MySQL, Power BI, SQL
+
+
 
 ---
 
